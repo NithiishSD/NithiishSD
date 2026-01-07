@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack (Languages & Tools I Use)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,matlab,git,github,mysql,flask&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,,mysql,flask,python,c,cpp,matlab,git,github&perline=6" />
 </p>
 
 ---
