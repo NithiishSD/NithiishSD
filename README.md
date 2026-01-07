@@ -1,6 +1,9 @@
 <!-- ================= ANIMATED INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nithiish+S.D;Software+System+Student,From+PSG+ Tech;Full+Stack+Developer+%7C+Problem+Solver;Focused+on+Clean+Code+and+Real-World+Projects" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Nithiish+S.D;Software+Systems+Student+at+PSG+Tech;Full+Stack+Developer+%7C+Problem+Solver;Focused+on+Clean+Code+and+Real-World+Projects" />
+</p>
+
 </p>
 
 ---
